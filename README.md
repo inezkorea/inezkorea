@@ -1,26 +1,27 @@
 # Ju-Yeun Lee (이주연)
 
 **Public health researcher (PhD, Seoul National University) · Registered Nurse**
-Epidemiology, interpretable machine learning, and health equity
+Epidemiology, explainable machine learning (XAI), and health equity
 
-보건학박사·간호사. 이주배경인구의 건강 불평등을 행정·보험 데이터와 설명 가능한 머신러닝, 질적 연구로 분석합니다.
+보건학박사·간호사. 이주노동자와 이주민의 산업재해, 건강 불평등을 행정·보험 데이터와 설명 가능한 머신러닝, 질적 연구로 분석합니다.
 
 ---
 
 ## Research focus
 - **Occupational injury epidemiology**: migrant workers, fishery workers, workers' compensation and insurance data
-- **Interpretable machine learning for health data**: XGBoost + SHAP for hypothesis generation, Firth-penalized logistic regression for rare-event confirmation
+- **Explainable machine learning (XAI) for health data**: XGBoost + SHAP for hypothesis generation, Firth-penalized logistic regression for rare-event confirmation
 - **Health equity and migrant/refugee health**: mixed methods, including trauma-informed qualitative interviews and systematic reviews
 
 ## Tools
-`Python` (pandas, scikit-learn, xgboost, shap) · `R` (logistf, tidyverse) · `Git`
+`Python` (pandas, scikit-learn, xgboost, shap) · `R` (glm, car, ggplot2, logistf) · `Git`
 
 ## Featured repositories
 | Repository | Description |
 |---|---|
 | [explainable-ml-occupational-injury](https://github.com/inezkorea/explainable-ml-occupational-injury) | XGBoost + TreeSHAP with gender-stratified models and logistic regression comparison, reproduced on synthetic data (Heliyon 2023) |
-| [rare-event-firth-regression](https://github.com/inezkorea/rare-event-firth-regression) | Two-stage design: exploratory XGBoost-SHAP, then Firth-penalized logistic regression for rare events (Safety and Health at Work 2026) |
-<!-- 두 번째 레포를 올리기 전이라면 두 번째 줄을 잠시 지우세요. -->
+| [rare-event-firth-regression](https://github.com/inezkorea/rare-event-firth-regression) | Two-stage design: exploratory XGBoost-SHAP, then Firth-penalized logistic regression for rare events, with a simulation of why the penalty matters (Safety and Health at Work 2026) |
+| [workplace-change-fatality-r](https://github.com/inezkorea/workplace-change-fatality-r) | Logistic regression in R with a group x policy-period interaction and model diagnostics (IJERPH 2019) |
+| [xai-for-epidemiologists](https://github.com/inezkorea/xai-for-epidemiologists) | Hands-on tutorial (Korean): SHAP for hypothesis generation, Firth regression for confirmation, and common pitfalls |
 
 ## Selected publications (first author)
 - **Lee JY**, et al. (2026). Work-related characteristics and migration-based disparities in fatal occupational injuries in South Korean fisheries. *Safety and Health at Work*. [doi](https://doi.org/10.1016/j.shaw.2026.09.007)
