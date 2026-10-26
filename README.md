@@ -3,7 +3,7 @@
 **Public health researcher (PhD, Seoul National University) · Registered Nurse**
 Epidemiology, interpretable machine learning, and health equity
 
-보건학박사·간호사. 이주노동자와 이주민의 산업재해, 건강 불평등을 행정·보험 데이터와 설명 가능한 머신러닝, 질적 연구로 분석합니다.
+보건학박사·간호사. 이주배경인구의 건강 불평등을 행정·보험 데이터와 설명 가능한 머신러닝, 질적 연구로 분석합니다.
 
 ---
 
