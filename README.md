@@ -18,7 +18,7 @@ Epidemiology, interpretable machine learning, and health equity
 ## Featured repositories
 | Repository | Description |
 |---|---|
-| [interpretable-ml-occupational-injury](https://github.com/inezkorea/interpretable-ml-occupational-injury) | XGBoost + TreeSHAP with gender-stratified models and logistic regression comparison, reproduced on synthetic data (Heliyon 2023) |
+| [explainable-ml-occupational-injury](https://github.com/inezkorea/explainable-ml-occupational-injury) | XGBoost + TreeSHAP with gender-stratified models and logistic regression comparison, reproduced on synthetic data (Heliyon 2023) |
 | [rare-event-firth-regression](https://github.com/inezkorea/rare-event-firth-regression) | Two-stage design: exploratory XGBoost-SHAP, then Firth-penalized logistic regression for rare events (Safety and Health at Work 2026) |
 <!-- 두 번째 레포를 올리기 전이라면 두 번째 줄을 잠시 지우세요. -->
 
