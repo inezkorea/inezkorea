@@ -1,15 +1,15 @@
 # Ju-Yeun Lee (이주연)
 
 **Public health researcher (PhD, Seoul National University) · Registered Nurse**
-Epidemiology, explainable machine learning (XAI), and health equity
+Epidemiology, explainable artificial intelligence (XAI), and health equity
 
-보건학박사·간호사. 이주노동자와 이주민의 산업재해, 건강 불평등을 행정·보험 데이터와 설명 가능한 머신러닝, 질적 연구로 분석합니다.
+보건학박사·간호사. 이주배경인구의 산업재해, 건강 불평등을 행정·보험 데이터와 설명 가능한 머신러닝, 질적 연구로 분석합니다.
 
 ---
 
 ## Research focus
 - **Occupational injury epidemiology**: migrant workers, fishery workers, workers' compensation and insurance data
-- **Explainable machine learning (XAI) for health data**: XGBoost + SHAP for hypothesis generation, Firth-penalized logistic regression for rare-event confirmation
+- **Explainable artificial intelligence (XAI) for health data**: XGBoost + SHAP for hypothesis generation, Firth-penalized logistic regression for rare-event confirmation
 - **Health equity and migrant/refugee health**: mixed methods, including trauma-informed qualitative interviews and systematic reviews
 
 ## Tools
@@ -24,7 +24,7 @@ Epidemiology, explainable machine learning (XAI), and health equity
 | [xai-for-epidemiologists](https://github.com/inezkorea/xai-for-epidemiologists) | Hands-on tutorial (Korean): SHAP for hypothesis generation, Firth regression for confirmation, and common pitfalls |
 
 ## Selected publications (first author)
-- **Lee JY**, et al. (2026). Work-related characteristics and migration-based disparities in fatal occupational injuries in South Korean fisheries. *Safety and Health at Work*. [doi](https://doi.org/10.1016/j.shaw.2026.09.007)
+- **Lee JY**, Chung J, Park SW, Cho SI. (2026). Work-related characteristics and migration-based disparities in fatal occupational injuries in South Korean fisheries. *Safety and Health at Work*. [doi](https://doi.org/10.1016/j.shaw.2026.09.007)
 - **Lee JY**, Chung J, Kim SS, Cho SI. (2026). Occupational burns among migrant workers in South Korea: a qualitative study of challenges and coping strategies. *BMJ Open*, 16, e116631. [doi](https://doi.org/10.1136/bmjopen-2026-116631)
 - **이주연** (sole author). (2026). 국내 외국인보호시설 보호외국인의 의료접근성과 건강: 국내 현황과 국제 비교. *비판사회정책*, 92, 95-125. [doi](https://doi.org/10.47042/ACSW.2026.08.92.95)
 - **Lee JY**, Lee W, Cho SI. (2023). Characteristics of fatal occupational injuries in migrant workers in South Korea: a machine learning study. *Heliyon*, 9(9), e20138. [doi](https://doi.org/10.1016/j.heliyon.2023.e20138)
